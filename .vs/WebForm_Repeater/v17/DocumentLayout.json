@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\VB-Win10\\Documents\\Visual Studio 2022\\Projects\\ASP.NET_Webform_Quick_Start\\WebForm_Repeater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95A6EA2C-D279-4B0F-B760-263E16E11D95}|WebForm_Repeater\\WebForm_Repeater.csproj|d:\\users\\vb-win10\\documents\\visual studio 2022\\projects\\asp.net_webform_quick_start\\webform_repeater\\webform_repeater\\repeaterwithclassdata\\repeaterwithclassdata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A6EA2C-D279-4B0F-B760-263E16E11D95}|WebForm_Repeater\\WebForm_Repeater.csproj|solutionrelative:webform_repeater\\repeaterwithclassdata\\repeaterwithclassdata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A6EA2C-D279-4B0F-B760-263E16E11D95}|WebForm_Repeater\\WebForm_Repeater.csproj|D:\\Users\\VB-Win10\\Documents\\Visual Studio 2022\\Projects\\ASP.NET_Webform_Quick_Start\\WebForm_Repeater\\webform_repeater\\repeaterwithclassdata\\repeaterwithclassdata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{95A6EA2C-D279-4B0F-B760-263E16E11D95}|WebForm_Repeater\\WebForm_Repeater.csproj|solutionrelative:webform_repeater\\repeaterwithclassdata\\repeaterwithclassdata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A6EA2C-D279-4B0F-B760-263E16E11D95}|WebForm_Repeater\\WebForm_Repeater.csproj|d:\\users\\vb-win10\\documents\\visual studio 2022\\projects\\asp.net_webform_quick_start\\webform_repeater\\webform_repeater\\repeaterwithclassdata\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A6EA2C-D279-4B0F-B760-263E16E11D95}|WebForm_Repeater\\WebForm_Repeater.csproj|solutionrelative:webform_repeater\\repeaterwithclassdata\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Users\\VB-Win10\\Documents\\Visual Studio 2022\\Projects\\ASP.NET_Webform_Quick_Start\\WebForm_Repeater\\WebForm_Repeater\\RepeaterWithClassData\\Person.cs",
+              "RelativeDocumentMoniker": "WebForm_Repeater\\RepeaterWithClassData\\Person.cs",
+              "ToolTip": "D:\\Users\\VB-Win10\\Documents\\Visual Studio 2022\\Projects\\ASP.NET_Webform_Quick_Start\\WebForm_Repeater\\WebForm_Repeater\\RepeaterWithClassData\\Person.cs",
+              "RelativeToolTip": "WebForm_Repeater\\RepeaterWithClassData\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:08:10.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepeaterWithClassData.aspx.cs",
+              "DocumentMoniker": "D:\\Users\\VB-Win10\\Documents\\Visual Studio 2022\\Projects\\ASP.NET_Webform_Quick_Start\\WebForm_Repeater\\WebForm_Repeater\\RepeaterWithClassData\\RepeaterWithClassData.aspx.cs",
+              "RelativeDocumentMoniker": "WebForm_Repeater\\RepeaterWithClassData\\RepeaterWithClassData.aspx.cs",
+              "ToolTip": "D:\\Users\\VB-Win10\\Documents\\Visual Studio 2022\\Projects\\ASP.NET_Webform_Quick_Start\\WebForm_Repeater\\WebForm_Repeater\\RepeaterWithClassData\\RepeaterWithClassData.aspx.cs",
+              "RelativeToolTip": "WebForm_Repeater\\RepeaterWithClassData\\RepeaterWithClassData.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:01:07.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepeaterWithClassData.aspx",
+              "DocumentMoniker": "D:\\Users\\VB-Win10\\Documents\\Visual Studio 2022\\Projects\\ASP.NET_Webform_Quick_Start\\WebForm_Repeater\\WebForm_Repeater\\RepeaterWithClassData\\RepeaterWithClassData.aspx",
+              "RelativeDocumentMoniker": "WebForm_Repeater\\RepeaterWithClassData\\RepeaterWithClassData.aspx",
+              "ToolTip": "D:\\Users\\VB-Win10\\Documents\\Visual Studio 2022\\Projects\\ASP.NET_Webform_Quick_Start\\WebForm_Repeater\\WebForm_Repeater\\RepeaterWithClassData\\RepeaterWithClassData.aspx",
+              "RelativeToolTip": "WebForm_Repeater\\RepeaterWithClassData\\RepeaterWithClassData.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T09:55:11.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
